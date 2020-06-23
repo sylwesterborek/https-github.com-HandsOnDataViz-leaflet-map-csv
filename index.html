@@ -22,7 +22,7 @@
 <body>
 
   <!-- Insert HTML division tag to layout the map -->
-  <div id="map-title">Higher Ed in Hartford 1537</div>
+  <div id="map-title">Higher Ed in Hartford 1539</div>
   <div id="map"></div>
 
   <!-- Insert Javascript (.js) code to create the map -->
@@ -79,8 +79,7 @@
       .on('ready', function() {
           // http://leafletjs.com/reference.html#map-fitbounds
           map.fitBounds(runLayer.getBounds());
-      })
-      .addTo(map);
+      }).addTo(map);
    controlLayers.addOverlay(customLayer, 'plik csv');
   </script>
 </body>
