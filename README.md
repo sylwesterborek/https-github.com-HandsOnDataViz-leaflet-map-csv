@@ -6,4 +6,4 @@ Simple Leaflet map with points (markers) from local CSV file.
 </p>
 
 ## Demo
-https://sylwesterborek.github.io/leaflet-map-csv/
+https://sylwesterborek.github.io/leaflet-map-csv_nowy/
